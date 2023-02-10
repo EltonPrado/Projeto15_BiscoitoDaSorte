@@ -24,7 +24,7 @@ Como jogar
 
 Quer conferir e testar sua sorte do dia? 
 
-[Visite o projeto online](https://eltonprado.github.io/Projeto10_JogoDaAdivinhacao/)
+[Visite o projeto online](https://eltonprado.github.io/Projeto11_BiscoitoDaSorte/)
 
 <br>
 
